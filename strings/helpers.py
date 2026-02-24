@@ -364,17 +364,7 @@ HELP_36 = """ 💑 <b>COUPLE OF THE DAY</b> 💖
 📸 Beautiful framed photo with both DPs will be generated 🖼️  
 📅 Next couple will be selected automatically tomorrow ⏳ """
 
-HELP_37 = """🤖 <b>ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇsᴇ ʙᴏᴛs</b> 🤖
-
-🔹 <b>ғᴜɴᴄᴛɪᴏɴ:</b>  
-• <b>ʀᴛᴍᴘs sᴛʀᴇᴀᴍɪɴɢ</b> 🎥
-
-🔹 <b>ᴛʜɪs ғᴜɴᴄᴛɪᴏɴ ɪs sᴜᴘᴘᴏʀᴛᴇᴅ ɪɴ:</b>  
-
-• @ShrutixMusicbot – <b>Sʜʀᴜᴛɪ Mᴜsɪᴄ Bᴏᴛ</b>  
-• @M4_Music_BoT – <b>M4 Mᴜsɪᴄ Bᴏᴛ</b>  
-
-✨ <b>ᴜsᴇ ᴛʜᴇsᴇ ʙᴏᴛs ᴛᴏ ᴇɴᴊᴏʏ ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ғᴜʟʟʏ.</b>"""
+HELP_37 = """🤖 <b>𝟺𝟶𝟺 ɴᴏᴛ ғᴏᴜɴᴅ</b>"""
 
 HELP_38 = """💝 <b>LOVE BIRDS TOOLS</b> 🕊️
 
